@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "css-watch": "sass src/sass/mystyles.sass public/css/styles.css --watch",
+    "css-watch": "sass src/sass/index.sass public/css/styles.css --watch",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
