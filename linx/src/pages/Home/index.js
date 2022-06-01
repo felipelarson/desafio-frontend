@@ -1,8 +1,8 @@
 import { Columns, Container, Hero, Pagination } from 'react-bulma-components';
-import { CardComponent } from './components/CardComponent';
-import { Filter } from './components/Filter';
-import { FooterComponent } from './components/FooterComponent';
-import { Header } from './components/Header';
+import { CardComponent } from './../../components/CardComponent';
+import { Filter } from './../../components/Filter';
+import { FooterComponent } from './../../components/FooterComponent';
+import { Header } from './../../components/Header';
 
 export const Home = () => {
   return (
